@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 
-[audio](/test.mp3)
+[audio](https://github.com/tienmanhptit1312/disentangled-VAE/blob/gh-pages/test.mp3)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
