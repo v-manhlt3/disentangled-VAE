@@ -32,7 +32,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-[audio](/test.mp3)
+<script>
+var audio = new Audio("https://raw.githubusercontent.com/tienmanhptit1312/disentangled-VAE/master/test.mp3")
+audio.play()
+</script>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tienmanhptit1312/disentangled-VAE.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
