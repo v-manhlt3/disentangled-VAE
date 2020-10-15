@@ -22,12 +22,12 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+[audio](https://github.com/tienmanhptit1312/disentangled-VAE/blob/gh-pages/test.mp3)
 [Link](url) and ![Image](src)
 ```
 
 
-[audio](https://github.com/tienmanhptit1312/disentangled-VAE/blob/gh-pages/test.mp3)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
