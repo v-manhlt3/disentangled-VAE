@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-![](https://github.com/tienmanhptit1312/disentangled-VAE/blob/gh-pages/test.mp3)
+
 [Link](url) and ![Image](src)
 ```
 
@@ -31,6 +31,8 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
+
+![](/test.mp3)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tienmanhptit1312/disentangled-VAE.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
