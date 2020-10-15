@@ -1,3 +1,6 @@
+<script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tienmanhptit1312/disentangled-VAE.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
