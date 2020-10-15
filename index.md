@@ -26,19 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-
+<audio src="test.mp3" controls preload></audio>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-<script>
-<body>
-<audio controls>
-<source src=“test.mp3” type=“audio/mpeg”>
-</audio>
-</body>
-</script>
+<audio src="audio.mp3" controls preload></audio>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tienmanhptit1312/disentangled-VAE.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
