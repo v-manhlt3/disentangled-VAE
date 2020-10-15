@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[audio](https://github.com/tienmanhptit1312/disentangled-VAE/blob/gh-pages/test.mp3)
+![](https://github.com/tienmanhptit1312/disentangled-VAE/blob/gh-pages/test.mp3)
 [Link](url) and ![Image](src)
 ```
 
