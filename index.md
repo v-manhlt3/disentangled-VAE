@@ -33,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 <script>
-var audio = new Audio("https://raw.githubusercontent.com/tienmanhptit1312/disentangled-VAE/master/test.mp3")
+var audio = new Audio("https://raw.githubusercontent.com/tienmanhptit1312/disentangled-VAE/gh-pages/test.mp3")
 audio.play()
 </script>
 
