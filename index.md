@@ -26,9 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-<iframe src="/test.mp3" frameborder="0" allowfullscreen="true">video</iframe>
 
-!audio[test](/convert_p225_to_p226_001.wav){ size=10 duration=10 cycle=forever }
+[audio](/test.mp3)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
