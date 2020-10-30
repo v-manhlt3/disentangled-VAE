@@ -22,10 +22,16 @@ Syntax highlighted code block
 
 ```
 
-<audio src="test.mp3" controls preload></audio>
+|        | ACVAE | GLE-VQVAE | Disentangled-VAE |
+|--------|-------|-----------|------------------|
+| M to M |       |           |       <audio src="test.mp3" controls preload></audio>           |
+| M to F |       |           |       <audio src="convert_p225_to_p226_001.wav" controls preload></audio>          |
+| F to F |       |           |                  |
+| F to M |       |           |                  |
 
 
-<audio src="convert_p225_to_p226_001.wav" controls preload></audio>
+
+
 
 
 ### Jekyll Themes
