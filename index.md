@@ -1,26 +1,36 @@
 
 
-## Welcome to GitHub Pages
+# Male --> Female
 
-
-### Markdown
-
-# Header 1
-## Header 2
-### Header 3
-
-```
-
-|        | ACVAE | GLE-VQVAE | Disentangled-VAE |
-|--------|-------|-----------|------------------|
-| M to M |       |           |       <audio src="test.mp3" controls preload></audio>           |
-| M to F |       |           |       <audio src="convert_p225_to_p226_001.wav" controls preload></audio>          |
-| F to F |       |           |                  |
-| F to M |       |           |                  |
+|        | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
+|--------|--------|--------|------------------|-----------|-------|
+| sample 1 |      |        |                  |           |       |
+| sample 2 |      |        |                  |           |       |
 
 
 
+# Female --> Male
 
+|        | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
+|--------|--------|--------|------------------|-----------|-------|
+| sample 1 |      |        |                  |           |       |
+| sample 2 |      |        |                  |           |       |
+
+
+# Female --> Female
+
+|        | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
+|--------|--------|--------|------------------|-----------|-------|
+| sample 1 |      |        |                  |           |       |
+| sample 2 |      |        |                  |           |       |
+
+
+# Male --> Male
+
+|        | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
+|--------|--------|--------|------------------|-----------|-------|
+| sample 1 |      |        |                  |           |       |
+| sample 2 |      |        |                  |           |       |
 
 
 ### Jekyll Themes
@@ -28,4 +38,7 @@
 
 ### Support or Contact
 
+<audio src="test.mp3" controls preload></audio>
+
+<audio src="convert_p225_to_p226_001.wav" controls preload></audio>
 
