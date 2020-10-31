@@ -1,6 +1,6 @@
 
 
-# Male --> Female
+# Male &#8594; Female
 
 |          | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
 |----------|--------|--------|------------------|-----------|-------|
@@ -9,7 +9,7 @@
 
 
 
-# Female --> Male
+# Female &#8594; Male
 
 |          | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
 |----------|--------|--------|------------------|-----------|-------|
@@ -17,7 +17,7 @@
 | sample 2 |      |        |                  |           |       |
 
 
-# Female --> Female
+# Female &#8594; Female
 
 |          | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
 |----------|--------|--------|------------------|-----------|-------|
@@ -25,7 +25,7 @@
 | sample 2 |        |        |                  |           |       |
 
 
-# Male --> Male
+# Male &#8594; Male
 
 |          | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
 |----------|--------|--------|------------------|-----------|-------|
@@ -38,6 +38,6 @@
 
 ### Support or Contact
 
-<audio src="test.mp3" controls preload></audio>
-<audio src="convert_p225_to_p226_001.wav" controls preload></audio>
+<!--<audio src="test.mp3" controls preload></audio>
+<audio src="convert_p225_to_p226_001.wav" controls preload></audio> -->
 
