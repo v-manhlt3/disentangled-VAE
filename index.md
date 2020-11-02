@@ -25,7 +25,7 @@ Voice conversion is a challenging task which transformsvoice characteristics of 
 
 |          | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
 |----------|--------|--------|------------------|-----------|-------|
-| sample 1 |   <audio src="./F2F/p229_003.wav" controls preload></audio>   |    <audio src="./F2F/p225_003.wav" controls preload></audio>   |  <audio src="./F2F/[Dis-VAE]convert_p229_to_p225_003.wav" controls preload></audio>|  <audio src="./F2F/gsb_0003.wav" controls preload></audio>  |  <audio src="./F2F/[ACVAE]p229_003.wav" controls preload></audio>   |        
+| sample 1 |   <audio src="./F2F/p229_003.wav" controls preload></audio>   |    <audio src="./F2F/p225_003.wav" controls preload></audio>   |  <audio src="./F2F/[Dis-VAE]p229_to_p225_003.wav" controls preload></audio>|  <audio src="./F2F/gsb_0003.wav" controls preload></audio>  |  <audio src="./F2F/[ACVAE]p229_003.wav" controls preload></audio>   |        
 
 | sample 2 |   <audio src="./F2F/p229_004.wav" controls preload></audio>   |    <audio src="./F2F/p225_004.wav" controls preload></audio>   |  <audio src="./F2F/[Dis-VAE]convert_p229_to_p225_004.wav" controls preload></audio>     |   <audio src="./F2F/gsb_0004.wav" controls preload></audio>   |   <audio src="./F2F/[ACVAE]p229_004.wav" controls preload></audio>   |
 
