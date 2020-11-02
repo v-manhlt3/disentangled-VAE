@@ -5,7 +5,10 @@ Voice conversion is a challenging task which transformsvoice characteristics of 
 
 # Melspectrogram Visualization
 
-This script: "Please call Stela"
+We conducted experiments on melspectrograms feature and relized that the speaker embedding has significant impact to melspectrograms. This phenomenon 
+explains for our assumption which is there are some common factors represent speaker identity embedded in speaker embedding, the other distinct factors represent linguishtic content extracted in content latent vector. Hence, by swapping speaker embedding between two utterance Disentangle-VAE is able to transform the identity of source speaker to the identity of target speaker.  
+
+The script: "Please call Stela"
 
 |  Original utterance (Female)   |     Converted utterance (Male)       |
 |:------------------------------:|:------------------------------------:|
@@ -51,6 +54,4 @@ This script: "Please call Stela"
 | sample 2 |   <audio src="./M2M/p226_013.wav" controls preload></audio>   |    <audio src="./M2M/p232_013.wav" controls preload></audio>   |  <audio src="./M2M/[Dis-VAE]convert_p226_to_p232_013.wav" controls preload></audio>     |   <audio src="./M2M/gsb_0013.wav" controls preload></audio>   |   <audio src="./M2M/[ACVAE]p226_013.wav" controls preload></audio>   |
 
 
-<!--<audio src="test.mp3" controls preload></audio>
-<audio src="convert_p225_to_p226_001.wav" controls preload></audio> -->
 
