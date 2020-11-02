@@ -4,8 +4,9 @@
 
 |          | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
 |----------|--------|--------|------------------|-----------|-------|
-| sample 1 |      |        |                  |           |       |
-| sample 2 |      |        |                  |           |       |
+| sample 1 |   <audio src="/M2F/p232_003.wav" controls preload></audio>   |    <audio src="/M2F/p229_003.wav" controls preload></audio>   |  <audio src="/M2F/[Dis-VAE]convert_p232_to_p229_003.wav" controls preload></audio>|  <audio src="/M2F/gsb_003.wav" controls preload></audio>  |  <audio src="/M2F/[ACVAE]p232_003.wav" controls preload></audio>   |        
+
+| sample 2 |   <audio src="/M2F/p232_004.wav" controls preload></audio>   |    <audio src="/M2F/p229_004.wav" controls preload></audio>   |  <audio src="/M2F/[Dis-VAE]convert_p232_to_p229_004.wav" controls preload></audio>     |   <audio src="/M2F/gsb_004.wav" controls preload></audio>   |   <audio src="/M2F/[ACVAE]p232_004.wav" controls preload></audio>   |
 
 
 
