@@ -3,8 +3,7 @@ Voice conversion is a challenging task which transformsvoice characteristics of 
 
 # Female to Male in Melspectrogram
 |Female                     |  Converted to Male |
-:-------------------------:|:-------------------------:
-![image](recons_p225_149.png)  |  ![image](convert_p225_p226_149.png)
+|![image](recons_p225_149.png)  |  ![image](convert_p225_p226_149.png)|
 <!--[image][]  |  [image][] -->
 
 
