@@ -36,7 +36,7 @@ Voice conversion is a challenging task which transformsvoice characteristics of 
 |----------|--------|--------|------------------|-----------|-------|
 | sample 1 |   <audio src="./M2M/p226_006.wav" controls preload></audio>   |    <audio src="./M2M/p232_006.wav" controls preload></audio>   |  <audio src="./M2M/[Dis-VAE]convert_p226_to_p232_006.wav" controls preload></audio>|  <audio src="./M2M/gsb_0006.wav" controls preload></audio>  |  <audio src="./M2M/[ACVAE]p226_006.wav" controls preload></audio>   |        
 
-| sample 2 |   <audio src="./M2M/p226_010.wav" controls preload></audio>   |    <audio src="./M2M/p232_010.wav" controls preload></audio>   |  <audio src="./M2M/[Dis-VAE]convert_p226_to_p232_010.wav" controls preload></audio>     |   <audio src="./M2M/gsb_0010.wav" controls preload></audio>   |   <audio src="./M2M/[ACVAE]p226_010.wav" controls preload></audio>   |
+| sample 2 |   <audio src="./M2M/p226_013.wav" controls preload></audio>   |    <audio src="./M2M/p232_013.wav" controls preload></audio>   |  <audio src="./M2M/[Dis-VAE]convert_p226_to_p232_013.wav" controls preload></audio>     |   <audio src="./M2M/gsb_0013.wav" controls preload></audio>   |   <audio src="./M2M/[ACVAE]p226_013.wav" controls preload></audio>   |
 
 
 ### Jekyll Themes
