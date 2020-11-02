@@ -16,9 +16,9 @@ Voice conversion is a challenging task which transformsvoice characteristics of 
 
 |          | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
 |----------|--------|--------|------------------|-----------|-------|
-| sample 1 |   <audio src="./F2M/p225_003.wav" controls preload></audio>   |    <audio src="./F2M/p226_003.wav" controls preload></audio>   |  <audio src="./F2M/[Dis-VAE]convert_p225_to_p226_003.wav" controls preload></audio>|  <audio src="./F2M/gsb_0003.wav" controls preload></audio>  |  <audio src="./F2M/[ACVAE]p225_003.wav" controls preload></audio>   |        
+| sample 1 |   <audio src="./F2M/p225_003.wav" controls preload></audio>   |    <audio src="./F2M/p226_003.wav" controls preload></audio>   |  <audio src="./F2M/[Dis-VAE]p225_to_p226_003.wav" controls preload></audio>|  <audio src="./F2M/gsb_0003.wav" controls preload></audio>  |  <audio src="./F2M/[ACVAE]p225_003.wav" controls preload></audio>   |        
 
-| sample 2 |   <audio src="./F2M/p225_010.wav" controls preload></audio>   |    <audio src="./F2M/p226_010.wav" controls preload></audio>   |  <audio src="./F2M/[Dis-VAE]convert_p225_to_p226_010.wav" controls preload></audio>     |   <audio src="./F2M/gsb_0010.wav" controls preload></audio>   |   <audio src="./F2M/[ACVAE]p225_010.wav" controls preload></audio>   |
+| sample 2 |   <audio src="./F2M/p225_010.wav" controls preload></audio>   |    <audio src="./F2M/p226_010.wav" controls preload></audio>   |  <audio src="./F2M/[Dis-VAe]p225_to_p226_010.wav" controls preload></audio>     |   <audio src="./F2M/gsb_0010.wav" controls preload></audio>   |   <audio src="./F2M/[ACVAE]p225_010.wav" controls preload></audio>   |
 
 
 # Female &#8594; Female
