@@ -1,3 +1,5 @@
+# Abstract
+Voice conversion is a challenging task which transformsvoice characteristics of a source speaker to a target speakerwithout  changing  linguistic  content. Recently, there  havebeen many works on many-to-many Voice Conversion (VC)based on Variational Autoencoder (VAEs)  achieving goodresults , however, these  methods lack the ability to disen-tangle speaker identity and linguistic content to achieve wellgeneralized performance. In this paper, we propose a  new method based on feature disentanglement to tackle many-to-many VC. By capability of disentangling speaker identityand linguistic content from utterances, Disentangle-VAE canconvert from many source speakers to many target speakerswith a single autoencoder network. Moreover, it achieves well generalized  performance with unseen target speakers. We perform both objective and subjective evaluation to verifythat our proposed method is able to transform source utterances to target utterance with high audio naturalness andtarget speaker similarity.
 
 
 # Male &#8594; Female
