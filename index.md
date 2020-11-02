@@ -6,7 +6,7 @@ Voice conversion is a challenging task which transformsvoice characteristics of 
 
 |          | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
 |----------|--------|--------|------------------|-----------|-------|
-| sample 1 |   <audio src="./M2F/p232_003.wav" controls preload></audio>   |    <audio src="./M2F/p229_003.wav" controls preload></audio>   |  <audio src="./M2F/[Dis-VAE]convert_p232_to_p229_003.wav" controls preload></audio>|  <audio src="./M2F/gsb_0003.wav" controls preload></audio>  |  <audio src="./M2F/[ACVAE]p232_003.wav" controls preload></audio>   |        
+| sample 1 |   <audio src="./M2F/p232_003.wav" controls preload size=5></audio>   |    <audio src="./M2F/p229_003.wav" controls preload size=5></audio>   |  <audio src="./M2F/[Dis-VAE]convert_p232_to_p229_003.wav" controls preload size=5></audio>|  <audio src="./M2F/gsb_0003.wav" controls preload size=5></audio>  |  <audio src="./M2F/[ACVAE]p232_003.wav" controls preload size=5></audio>   |        
 
 | sample 2 |   <audio src="./M2F/p232_004.wav" controls preload></audio>   |    <audio src="./M2F/p229_004.wav" controls preload></audio>   |  <audio src="./M2F/[Dis-VAE]convert_p232_to_p229_004.wav" controls preload></audio>     |   <audio src="./M2F/gsb_0004.wav" controls preload></audio>   |   <audio src="./M2F/[ACVAE]p232_004.wav" controls preload></audio>   |
 
