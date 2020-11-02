@@ -3,7 +3,9 @@ Voice conversion is a challenging task which transformsvoice characteristics of 
 
 # Melspectrogram Visualization
 
-|![image](recons_p225_149.png)  |  ![image](convert_p225_p226_149.png)|
+This script: "Please call Stela"
+|![](recons_p225_149.png)  |  ![](convert_p225_p226_149.png)|
+| <audio src="./M2F/p232_003.wav" controls preload size=5></audio>| <audio src="./M2F/p232_003.wav" controls preload size=5></audio>|
 <!--[image][]  |  [image][] -->
 
 
