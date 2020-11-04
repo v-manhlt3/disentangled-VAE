@@ -53,6 +53,9 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
+      <j:if test="${attrs.nogrid==null or attrs.nogrid.equals(false)}">
+      <link rel="stylesheet" href="${resURL}/css/responsive-grid.css" type="text/css" />
+      </j:if>
     </header>
 
     <main id="content" class="main-content" role="main">
