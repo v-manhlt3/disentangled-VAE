@@ -19,39 +19,39 @@ The script: "Please call Stela"
 
 # Male &#8594; Female
 
-|          | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
+|          | Source | Target | Disentangled-VAE | AutoVC | VQVC+ |
 |----------|--------|--------|------------------|-----------|-------|
-| sample 1 |   <audio src="./M2F/p232_003.wav" controls preload size=5></audio>   |    <audio src="./M2F/p229_003.wav" controls preload size=5></audio>   |  <audio src="./M2F/[Dis-VAE]convert_p232_to_p229_003.wav" controls preload size=5></audio>|  <audio src="./M2F/gsb_0003.wav" controls preload size=5></audio>  |  <audio src="./M2F/[ACVAE]p232_003.wav" controls preload size=5></audio>   |        
+| sample 1 |   <audio src="./M2F/p232_003.wav" controls preload size=5></audio>   |    <audio src="./M2F/p229_003.wav" controls preload size=5></audio>   |  <audio src="./M2F/[Dis-VAE]convert_p232_to_p229_003.wav" controls preload size=5></audio>|  <audio src="./M2F/[Autovc]p232_to_p229_0003.wav" controls preload size=5></audio>  |  <audio src="./M2F/[VQVC+]p225_p226_003.wav" controls preload size=5></audio>   |        
 
-| sample 2 |   <audio src="./M2F/p232_004.wav" controls preload></audio>   |    <audio src="./M2F/p229_004.wav" controls preload></audio>   |  <audio src="./M2F/[Dis-VAE]convert_p232_to_p229_004.wav" controls preload></audio>     |   <audio src="./M2F/gsb_0004.wav" controls preload></audio>   |   <audio src="./M2F/[ACVAE]p232_004.wav" controls preload></audio>   |
+| sample 2 |   <audio src="./M2F/p232_004.wav" controls preload></audio>   |    <audio src="./M2F/p229_004.wav" controls preload></audio>   |  <audio src="./M2F/[Dis-VAE]convert_p232_to_p229_004.wav" controls preload></audio>     |   <audio src="./M2F/[Autovc]p232_to_p229_0004.wav" controls preload></audio>   |   <audio src="./M2F/[VQVC+]p225_p226_004.wav" controls preload></audio>   |
 
 
 
 # Female &#8594; Male
 
-|          | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
+|          | Source | Target | Disentangled-VAE | AutoVC | VQVC+ |
 |----------|--------|--------|------------------|-----------|-------|
-| sample 1 |   <audio src="./F2M/p225_003.wav" controls preload></audio>   |    <audio src="./F2M/p226_003.wav" controls preload></audio>   |  <audio src="./F2M/[Dis-VAE]p225_to_p226_003.wav" controls preload></audio>|  <audio src="./F2M/gsb_0003.wav" controls preload></audio>  |  <audio src="./F2M/[ACVAE]p225_003.wav" controls preload></audio>   |        
+| sample 1 |   <audio src="./F2M/p225_003.wav" controls preload></audio>   |    <audio src="./F2M/p226_003.wav" controls preload></audio>   |  <audio src="./F2M/[Dis-VAE]p225_to_p226_003.wav" controls preload></audio>|  <audio src="./F2M/[Autovc]p225_to_p226_0003.wav" controls preload></audio>  |  <audio src="./F2M/[VQVC+]p225_p226_003.wav" controls preload></audio>   |        
 
-| sample 2 |   <audio src="./F2M/p225_010.wav" controls preload></audio>   |    <audio src="./F2M/p226_010.wav" controls preload></audio>   |  <audio src="./F2M/[Dis-VAe]p225_to_p226_010.wav" controls preload></audio>     |   <audio src="./F2M/gsb_0010.wav" controls preload></audio>   |   <audio src="./F2M/[ACVAE]p225_010.wav" controls preload></audio>   |
+| sample 2 |   <audio src="./F2M/p225_010.wav" controls preload></audio>   |    <audio src="./F2M/p226_010.wav" controls preload></audio>   |  <audio src="./F2M/[Dis-VAe]p225_to_p226_010.wav" controls preload></audio>     |   <audio src="./F2M/[Autovc]p225_to_p226_00010.wav" controls preload></audio>   |   <audio src="./F2M/[VQVC+]p225_p226_0010.wav" controls preload></audio>   |
 
 
 # Female &#8594; Female
 
-|          | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
+|          | Source | Target | Disentangled-VAE | AutoVC | VQVC+ |
 |----------|--------|--------|------------------|-----------|-------|
-| sample 1 |   <audio src="./F2F/p229_003.wav" controls preload></audio>   |    <audio src="./F2F/p225_003.wav" controls preload></audio>   |  <audio src="./F2F/[Dis-VAE]p229_to_p225_003.wav" controls preload></audio>|  <audio src="./F2F/gsb_0003.wav" controls preload></audio>  |  <audio src="./F2F/[ACVAE]p229_003.wav" controls preload></audio>   |        
+| sample 1 |   <audio src="./F2F/p229_003.wav" controls preload></audio>   |    <audio src="./F2F/p225_003.wav" controls preload></audio>   |  <audio src="./F2F/[Dis-VAE]p229_to_p225_003.wav" controls preload></audio>|  <audio src="./F2F/[Autovc]p229_to_p225_0003.wav" controls preload></audio>  |  <audio src="./F2F/[VQVC+]p229_p225_003.wav" controls preload></audio>   |        
 
-| sample 2 |   <audio src="./F2F/p229_004.wav" controls preload></audio>   |    <audio src="./F2F/p225_004.wav" controls preload></audio>   |  <audio src="./F2F/[Dis-VAE]convert_p229_to_p225_004.wav" controls preload></audio>     |   <audio src="./F2F/gsb_0004.wav" controls preload></audio>   |   <audio src="./F2F/[ACVAE]p229_004.wav" controls preload></audio>   |
+| sample 2 |   <audio src="./F2F/p229_004.wav" controls preload></audio>   |    <audio src="./F2F/p225_004.wav" controls preload></audio>   |  <audio src="./F2F/[Dis-VAE]convert_p229_to_p225_004.wav" controls preload></audio>     |   <audio src="./F2F/[Autovc]p229_to_p225_0004.wav" controls preload></audio>   |   <audio src="./F2F/[VQVC+]p229_p225_004.wav" controls preload></audio>   |
 
 
 # Male &#8594; Male
 
-|          | Source | Target | Disentangled-VAE | GLE-VQVAE | ACVAE |
+|          | Source | Target | Disentangled-VAE | AutoVC | VQVC+ |
 |----------|--------|--------|------------------|-----------|-------|
-| sample 1 |   <audio src="./M2M/p226_006.wav" controls preload></audio>   |    <audio src="./M2M/p232_006.wav" controls preload></audio>   |  <audio src="./M2M/[Dis-VAE]convert_p226_to_p232_006.wav" controls preload></audio>|  <audio src="./M2M/gsb_0006.wav" controls preload></audio>  |  <audio src="./M2M/[ACVAE]p226_006.wav" controls preload></audio>   |        
+| sample 1 |   <audio src="./M2M/p226_006.wav" controls preload></audio>   |    <audio src="./M2M/p232_006.wav" controls preload></audio>   |  <audio src="./M2M/[Dis-VAE]convert_p226_to_p232_006.wav" controls preload></audio>|  <audio src="./M2M/[Autovc]p226_to_p232_0006.wav" controls preload></audio>  |  <audio src="./M2M/[VQVC+]p226_p232_006.wav" controls preload></audio>   |        
 
-| sample 2 |   <audio src="./M2M/p226_013.wav" controls preload></audio>   |    <audio src="./M2M/p232_013.wav" controls preload></audio>   |  <audio src="./M2M/[Dis-VAE]convert_p226_to_p232_013.wav" controls preload></audio>     |   <audio src="./M2M/gsb_0013.wav" controls preload></audio>   |   <audio src="./M2M/[ACVAE]p226_013.wav" controls preload></audio>   |
+| sample 2 |   <audio src="./M2M/p226_009.wav" controls preload></audio>   |    <audio src="./M2M/p232_009.wav" controls preload></audio>   |  <audio src="./M2M/[Dis-VAE]convert_p226_to_p232_009.wav" controls preload></audio>     |   <audio src="./M2M/[Autovc]p226_to_p232_0009.wav" controls preload></audio>   |   <audio src="./M2M/[VQVC+]p226_p232_009.wav" controls preload></audio>   |
 
 
 
