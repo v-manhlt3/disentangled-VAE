@@ -31,9 +31,9 @@ The script: "Please call Stela"
 
 |          | Source | Target | Disentangled-VAE | AutoVC | VQVC+ | Cycle-VAE |
 |----------|--------|--------|------------------|-----------|-------|-------|
-| sample 1 |   <audio src="./F2M/p225_003.wav" controls preload></audio>   |    <audio src="./F2M/p226_003.wav" controls preload></audio>   |  <audio src="./F2M/[Dis-VAE]p225_to_p226_003.wav" controls preload></audio>|  <audio src="./F2M/[Autovc]p225_to_p226_0003.wav" controls preload></audio>  |  <audio src="./F2M/[VQVC+]p225_p226_003.wav" controls preload></audio>   | <audio src="./M2F/[Cycle-VAE]p225_003_cv.wav" controls preload size=5></audio> |       
+| sample 1 |   <audio src="./F2M/p225_003.wav" controls preload></audio>   |    <audio src="./F2M/p226_003.wav" controls preload></audio>   |  <audio src="./F2M/[Dis-VAE]p225_to_p226_003.wav" controls preload></audio>|  <audio src="./F2M/[Autovc]p225_to_p226_0003.wav" controls preload></audio>  |  <audio src="./F2M/[VQVC+]p225_p226_003.wav" controls preload></audio>   | <audio src="./F2M/[Cycle-VAE]p225_003_cv.wav" controls preload size=5></audio> |       
 
-| sample 2 |   <audio src="./F2M/p225_010.wav" controls preload></audio>   |    <audio src="./F2M/p226_010.wav" controls preload></audio>   |  <audio src="./F2M/[Dis-VAe]p225_to_p226_010.wav" controls preload></audio>     |   <audio src="./F2M/[Autovc]p225_to_p226_0010.wav" controls preload></audio>   |   <audio src="./F2M/[VQVC+]p225_p226_010.wav" controls preload></audio>   | <audio src="./M2F/[Cycle-VAE]p225_010_cv.wav" controls preload size=5></audio> |
+| sample 2 |   <audio src="./F2M/p225_010.wav" controls preload></audio>   |    <audio src="./F2M/p226_010.wav" controls preload></audio>   |  <audio src="./F2M/[Dis-VAe]p225_to_p226_010.wav" controls preload></audio>     |   <audio src="./F2M/[Autovc]p225_to_p226_0010.wav" controls preload></audio>   |   <audio src="./F2M/[VQVC+]p225_p226_010.wav" controls preload></audio>   | <audio src="./F2M/[Cycle-VAE]p225_010_cv.wav" controls preload size=5></audio> |
 
 
 # Female &#8594; Female
